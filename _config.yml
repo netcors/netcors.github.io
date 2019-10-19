@@ -4,6 +4,10 @@ description: Network Configuration and Tutorials
 
 exclude: ["README.md"]
 
+gems: ["jekyll-lunr-js-search"]
+lunr_search:
+  js_dir: "assets/js"
+
 authors:
   mukti:
     name: Muhamad Mukti
