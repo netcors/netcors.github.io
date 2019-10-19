@@ -1,3 +1,13 @@
 title: NetCors
 subtitle: Network Configuration and Tutorials
 description: Network Configuration and Tutorials
+
+exclude: ["README.md"]
+
+authors:
+  mukti:
+    name: Muhamad Mukti
+    site: mukti.website
+    twitter: mmdmukti
+    github: mmdmukti
+    byline: Network and System Administrator
