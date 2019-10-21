@@ -10,6 +10,14 @@ exclude: ["README.md"]
 gems: ["jekyll-lunr-js-search"]
 lunr_search:
   js_dir: "assets/js"
+  
+paginate: 10
+paginate_path: "/blog/:num/"
+
+recent_posts: 5
+excerpt_link: "Read More"
+titlecase: true
+category_dir: blog/categories
 
 authors:
   mukti:
