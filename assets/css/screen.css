@@ -607,7 +607,7 @@ body {
   font-family: "Adobe Garamond W08", "adobe-garamond-pro", "AGaramondPro-Regular", "Times New Roman", "Times", "serif";
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
-  background-image: url(/images/gradient.png);
+  background-image: url(assets/img/gradient.png);
   background-repeat: repeat-x;
   background-position: 0px 0px;
   max-width: none;
@@ -768,7 +768,7 @@ blockquote {
 header#banner {
   width: 100%;
   z-index: 999;
-  background-image: url(/images/gradient.png);
+  background-image: url(assets/img/gradient.png);
   background-repeat: repeat-x;
   background-position: 0px 0px;
   background-color: #FFFFFF;
