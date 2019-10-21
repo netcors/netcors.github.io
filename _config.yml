@@ -1,7 +1,7 @@
 title: NetCors - Network Configuration and Tutorials
 subtitle: Network Configuration and Tutorials
 description: Network Configuration and Tutorials
-permalink: /title/
+permalink: /:title/
 baseurl: ""
 
 exclude: ["README.md"]
