@@ -1,29 +1,28 @@
 <div id="header">
   <div class="header-navigation">
     <ul>
-      <li><a href="https://developers.artsy.net/">API</a></li>
-      <li><a href="https://www.artsy.net/jobs">Careers</a></li>
-      <li><a href="http://twitter.com/artsyopensource">@artsyopensource</a></li>
-      <li><a href="http://www.artsy.net/">Artsy.net</a></li>
+      <li><a href="/configuration">Configuration</a></li>
+      <li><a href="/tutorials">Tutorials</a></li>
+      <li><a href="//tuxtor.com">Linux Tutorials</a></li>
     </ul>
     <span class="header-section-title">
       {% if page.section == opensource %}
         <a href="/open-source">Open Source</a>
       {% else %}
-        <a href="/">Engineering Blog</a>
+        <a href="/">Network Configuration and Tutorials</a>
       {% endif%}
     </span>
   </div>
 
   <div class="header-sticky-container">
     <div class="header-logo">
-      <h2><a href="{{ site.url }}">Artsy</a></h2>
+      <h2><a href="{{ site.url }}">NetCors</a></h2>
     </div>
     <div class="header-search">
       {% if page.section != opensource %}
         <h2>Open Source</h2>
       {% else %}
-        <h2><a href="/">Engineering Blog</a></h2>
+        <h2><a href="/">Network Configuration and Tutorials</a></h2>
         <span>{% include search.html %}</span>
       {% endif%}
     </div>
