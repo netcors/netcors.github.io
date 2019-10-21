@@ -4,6 +4,7 @@ description: Network Configuration and Tutorials
 baseurl: ""
 permalink: /:title/
 baseurl: ""
+google_custom_search: 012445899555778688615:a4moohuad2d
 
 exclude: ["README.md"]
 
