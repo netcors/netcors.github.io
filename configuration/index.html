@@ -11,7 +11,10 @@ exclude_from_search: true
   <article>
     <div class="content-container">
 	{% for post in site.posts reverse %}
-	{% if post.dir == configuration %}
+	{% assign dir_key = post.dir %}
+	{% for dir in dir_key %}
+	{% assign cat = site.dir[dir] %}
+	{% if cat %}
       <a href="{{ root_url }}{{ post.url }}">
         <b>{{post.title}}</b> -
         {% assign author_key = post.author %}
@@ -23,6 +26,8 @@ exclude_from_search: true
         {% endfor %}
       </a>
 	{% endif%}
+	{% endif%}
+	{% endfor %}
 	{% endfor %}
     </div>
   </article>
