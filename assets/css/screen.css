@@ -15,7 +15,7 @@
   text-align: right;
   font-size: 13px;
   line-height: 1.45em;
-  background: #073642 url('assets/img/noise.png?1568316265') top left !important;
+  background: #073642 url('/assets/img/noise.png?1568316265') top left !important;
   border-right: 1px solid #00232c !important;
   -moz-box-shadow: #083e4b -1px 0 inset;
   -webkit-box-shadow: #083e4b -1px 0 inset;
@@ -68,7 +68,7 @@ html .gist .gist-file .gist-meta {
   border: 1px solid #083e4b !important;
   color: #586e75;
   font-size: .7em !important;
-  background: #073642 url('assets/img/noise.png?1568316265') top left;
+  background: #073642 url('/assets/img/noise.png?1568316265') top left;
   line-height: 1.5em;
 }
 /* line 66, ../_sass/partials/_syntax.scss */
@@ -103,7 +103,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
 
 /* line 85, ../_sass/partials/_syntax.scss */
 pre {
-  background: #002b36 url('assets/img/noise.png?1568316265') top left;
+  background: #002b36 url('/assets/img/noise.png?1568316265') top left;
   -moz-border-radius: 0.4em;
   -webkit-border-radius: 0.4em;
   border-radius: 0.4em;
@@ -164,7 +164,7 @@ p pre code, li pre code {
   display: block;
   padding: .8em !important;
   overflow-x: auto;
-  background: #002b36 url('assets/img/noise.png?1568316265') top left !important;
+  background: #002b36 url('/assets/img/noise.png?1568316265') top left !important;
   color: #93a1a1 !important;
   /* Comment */
   /* Comment.Multiline */
@@ -533,7 +533,7 @@ figure.code .highlight {
   -webkit-border-top-right-radius: 5px;
   border-top-right-radius: 5px;
   font-family: "Helvetica Neue", Arial, "Lucida Grande", "Lucida Sans Unicode", Lucida, sans-serif;
-  background: #aaaaaa url('assets/img/code_bg.png?1568316265') top repeat-x;
+  background: #aaaaaa url('/assets/img/code_bg.png?1568316265') top repeat-x;
   border: 1px solid #565656;
   border-top-color: #cbcbcb;
   border-left-color: #a5a5a5;
@@ -607,7 +607,7 @@ body {
   font-family: "Adobe Garamond W08", "adobe-garamond-pro", "AGaramondPro-Regular", "Times New Roman", "Times", "serif";
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
-  background-image: url(assets/img/gradient.png);
+  background-image: url(/assets/img/gradient.png);
   background-repeat: repeat-x;
   background-position: 0px 0px;
   max-width: none;
@@ -768,7 +768,7 @@ blockquote {
 header#banner {
   width: 100%;
   z-index: 999;
-  background-image: url(assets/img/gradient.png);
+  background-image: url(/assets/img/gradient.png);
   background-repeat: repeat-x;
   background-position: 0px 0px;
   background-color: #FFFFFF;
