@@ -4,7 +4,6 @@ title: "Enable/Disable Interface Network di Linux"
 date: 2019-10-20 03:42
 comments: true
 categories: [Linux]
-dir: configuration
 author: mukti
 ---
 
