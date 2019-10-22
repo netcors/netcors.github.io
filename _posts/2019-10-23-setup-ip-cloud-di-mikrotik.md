@@ -11,7 +11,9 @@ MikroTik menawarkan beberapa layanan untuk perangkat RouterBOARD di atas RouterO
 Layanan ini berfungsi untuk mempermudah akses saat mengkonfigurasi, mengatur, mengontrol, memelihara atau memantau perangkat MikroTik kamu.
 
 > Note: RouterOS v6.27 ke atas untuk command "ip cloud enabled" diubah menjadi "ip cloud ddns-enabled" ini mungkin memerlukan beberapa perubahan pada script jika kamu menggunakan fitur ini dalam sebuah script.
+
 > Note: RouterOS v6.43 ke atas akan menggunakan cloud2.mikrotik.com untuk berkomunikasi dengan server Cloud MikroTik. Versi yang lebih lama akan menggunakan cloud.mikrotik.com untuk berkomunikasi dengan server Cloud MikroTik.
+
 > Note: IP/Cloud memerlukan lisensi Cloud Hosted Router (CHR).
 
 ## DDNS (Dynamic DNS)
