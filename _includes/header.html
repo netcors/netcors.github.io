@@ -1,18 +1,4 @@
 <div id="header">
-  <div class="header-navigation">
-    <ul>
-      <li><a href="/configuration">Configuration</a></li>
-      <li><a href="/tutorials">Tutorials</a></li>
-    </ul>
-    <span class="header-section-title">
-      {% if page.section == opensource %}
-        <a href="//tuxtor.com">Linux Tutorials</a>
-      {% else %}
-        <a href="/">Network Configuration and Tutorials</a>
-      {% endif%}
-    </span>
-  </div>
-
   <div class="header-sticky-container">
     <div class="header-logo">
       <h2><a href="{{ site.url }}">NetCors</a></h2>
@@ -24,6 +10,11 @@
         <h2><a href="/">Network Configuration and Tutorials</a></h2>
         <span>{% include search.html %}</span>
       {% endif%}
+    </div>
+    <div class="header-navigation">
+      <span class="header-section-title">
+          <a href="//tuxtor.com">Linux Tutorials</a>
+      </span>
     </div>
   </div>
 </div>
