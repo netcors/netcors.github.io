@@ -7,7 +7,7 @@ title: NetCors
 description: Network Configuration and Tutorials
 baseurl: "/"
 url: "https://netcors.com"
-logo: "/assets/img/netcors.png"
+logo: "/assets/images/netcors.png"
 
 theme: "just-the-docs"
 search_enabled: true
