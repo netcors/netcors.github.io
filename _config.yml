@@ -15,7 +15,18 @@ search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+    
+plugins:
+  - jekyll-seo-tag
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  
 aux_links:
   "Linux Tutorials":
     - "//tuxtor.com/"
