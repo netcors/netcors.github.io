@@ -2,6 +2,7 @@ theme: "just-the-docs"
 logo: "/assets/img/netcors.png"
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
 
 aux_links:
   "Linux Tutorials":
