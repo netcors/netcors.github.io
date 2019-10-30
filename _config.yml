@@ -1,8 +1,17 @@
-theme: "just-the-docs"
+# Jekyll theme just-the-docs
+# http://https://github.com/pmarsceill/just-the-docs/
+# © 2017-2019 Patrick Marsceill
+# MIT License
+
+title: NetCors
+description: Network Configuration and Tutorials
+baseurl: "/"
+url: "https://netcors.com"
 logo: "/assets/img/netcors.png"
+
+theme: "just-the-docs"
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
-
 heading_anchors: true
 
 aux_links:
