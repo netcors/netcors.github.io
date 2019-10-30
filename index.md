@@ -6,7 +6,7 @@ description: "Network Configuration and Tutorials"
 permalink: /
 ---
 
-## Setup IP Cloud di Mikrotik
+### Setup IP Cloud di Mikrotik
 {: .fs-9 }
 
 MikroTik menawarkan beberapa layanan untuk perangkat RouterBOARD di atas RouterOS v6.14 yaitu salah satunya Cloud DDNS (Dynamic DNS)...
@@ -16,7 +16,7 @@ MikroTik menawarkan beberapa layanan untuk perangkat RouterBOARD di atas RouterO
 
 ---
 
-## Enable/Disable Interface Network di Linux
+### Enable/Disable Interface Network di Linux
 {: .fs-9 }
 
 Kamu dapat mengaktifkan atau menonaktifkan interface network dengan menggunakan command ifup/ifdown...
