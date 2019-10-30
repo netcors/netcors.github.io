@@ -13,6 +13,8 @@ theme: "just-the-docs"
 search_enabled: true
 search_tokenizer_separator: /[\s/]+/
 heading_anchors: true
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
 aux_links:
   "Linux Tutorials":
