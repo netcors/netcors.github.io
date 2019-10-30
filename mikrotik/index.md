@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mikrotik
+title: MikroTik
 nav_order: 2
 ---
 
