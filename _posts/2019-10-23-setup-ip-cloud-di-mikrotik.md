@@ -5,6 +5,8 @@ date: 2019-10-23 02:14
 permalink: /setup-ip-cloud-di-mikrotik
 ---
 
+# Setup IP Cloud di Mikrotik
+
 MikroTik menawarkan beberapa layanan untuk perangkat RouterBOARD di atas RouterOS v6.14 yaitu salah satunya Cloud DDNS (Dynamic DNS). 
 Layanan ini berfungsi untuk mempermudah akses saat mengkonfigurasi, mengatur, mengontrol, memelihara atau memantau perangkat MikroTik kamu.
 

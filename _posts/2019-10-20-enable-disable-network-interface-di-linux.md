@@ -5,6 +5,8 @@ date: 2019-10-20 03:42
 permalink: /enable-disable-network-interface-di-linux
 ---
 
+# Enable/Disable Interface Network di Linux
+
 Kamu dapat mengaktifkan atau menonaktifkan interface network dengan menggunakan command ifup/ifdown seperti berikut:
 
 ### Enable eth0
