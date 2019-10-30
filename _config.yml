@@ -1,2 +1,4 @@
 theme: "just-the-docs"
 logo: "/assets/img/netcors.png"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
