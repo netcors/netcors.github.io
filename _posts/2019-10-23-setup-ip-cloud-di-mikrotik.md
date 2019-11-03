@@ -1,8 +1,8 @@
 ---
-layout: default
 title: "Setup IP Cloud di Mikrotik"
 date: 2019-10-23 02:14
 permalink: /setup-ip-cloud-di-mikrotik
+tags: MikroTik
 ---
 
 # Setup IP Cloud di Mikrotik
@@ -15,6 +15,8 @@ Layanan ini berfungsi untuk mempermudah akses saat mengkonfigurasi, mengatur, me
 > Note: RouterOS v6.43 ke atas akan menggunakan cloud2.mikrotik.com untuk berkomunikasi dengan server Cloud MikroTik. Versi yang lebih lama akan menggunakan cloud.mikrotik.com untuk berkomunikasi dengan server Cloud MikroTik.
 
 > Note: IP/Cloud memerlukan lisensi Cloud Hosted Router (CHR).
+
+<!--more-->
 
 ## DDNS (Dynamic DNS)
 
