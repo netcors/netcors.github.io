@@ -26,7 +26,6 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-comments: false
 ---
 
 Salam para pembaca sekalian, kamu sedang melihat halaman yang memberikan penjelasan singkat tentang blog ini. Ini akan sangat singkat, diharapkan kamu meluangkan sedikit waktu untuk membacanya.
