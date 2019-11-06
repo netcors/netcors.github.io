@@ -25,7 +25,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-privacy
+key: page-privacy-policy
 ---
 
 Privacy Policy ini mengungkapkan kebijakan penanganan data-data pribadi pengguna pada blog netcors.com. Pada Privacy Policy ini, kecuali disebutkan lain, yang dimaksud dengan https://netcors.com adalah termasuk blog ini.
