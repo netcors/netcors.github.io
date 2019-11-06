@@ -6,8 +6,6 @@ tags: Linux
 comments: true
 ---
 
-# Enable/Disable Interface Network di Linux
-
 Kamu dapat mengaktifkan atau menonaktifkan interface network dengan menggunakan command ifup/ifdown seperti berikut:
 
 ### Enable eth0
