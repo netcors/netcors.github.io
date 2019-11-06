@@ -3,6 +3,7 @@ title: "Enable/Disable Interface Network di Linux"
 date: 2019-10-20 03:42
 permalink: /enable-disable-network-interface-di-linux
 tags: Linux
+comments: true
 ---
 
 # Enable/Disable Interface Network di Linux

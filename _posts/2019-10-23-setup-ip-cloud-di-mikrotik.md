@@ -3,6 +3,7 @@ title: "Setup IP Cloud di Mikrotik"
 date: 2019-10-23 02:14
 permalink: /setup-ip-cloud-di-mikrotik
 tags: MikroTik
+comments: true
 ---
 
 # Setup IP Cloud di Mikrotik
